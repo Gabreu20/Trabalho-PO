@@ -1,3 +1,27 @@
 ﻿  SO.cpp
-C:\Users\uplyc\source\repos\SO\SO\SO.cpp(19,26): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(187,21): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(188,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(189,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(190,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(191,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(192,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(193,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(194,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(195,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(196,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(197,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(198,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(199,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(200,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(201,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(202,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(203,23): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(205,8): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(206,8): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(207,8): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(208,8): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(209,8): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(210,8): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(211,8): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(212,8): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
   SO.vcxproj -> C:\Users\uplyc\source\repos\SO\x64\Debug\SO.exe
