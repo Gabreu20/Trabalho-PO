@@ -1,0 +1,3 @@
+﻿  SO.cpp
+C:\Users\uplyc\source\repos\SO\SO\SO.cpp(19,26): warning C4305: '=': truncamento de 'double' para 'float'
+  SO.vcxproj -> C:\Users\uplyc\source\repos\SO\x64\Debug\SO.exe
