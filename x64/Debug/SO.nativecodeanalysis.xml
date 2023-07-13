@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\uplyc\source\repos\SO\SO\</FILEPATH>
+      <FILENAME>SO.cpp</FILENAME>
+      <LINE>131</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6283</DEFECTCODE>
+    <DESCRIPTION>"n" é alocado com new [] de matriz, mas excluído com delete escalar.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\uplyc\source\repos\SO\SO\</FILEPATH>
+        <FILENAME>SO.cpp</FILENAME>
+        <LINE>126</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\uplyc\source\repos\SO\SO\</FILEPATH>
+        <FILENAME>SO.cpp</FILENAME>
+        <LINE>131</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\uplyc\source\repos\SO\SO\</FILEPATH>
+      <FILENAME>SO.cpp</FILENAME>
+      <LINE>166</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6283</DEFECTCODE>
+    <DESCRIPTION>"n" é alocado com new [] de matriz, mas excluído com delete escalar.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\uplyc\source\repos\SO\SO\</FILEPATH>
+        <FILENAME>SO.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\uplyc\source\repos\SO\SO\</FILEPATH>
+        <FILENAME>SO.cpp</FILENAME>
+        <LINE>166</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
