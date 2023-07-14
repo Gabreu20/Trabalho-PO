@@ -1,1 +1,4 @@
-﻿  SO.vcxproj -> C:\Users\uplyc\source\repos\SO\x64\Debug\SO.exe
+﻿  PO.cpp
+C:\Users\uplyc\source\repos\SO\SO\PO.cpp(138): warning C6283: "n" é alocado com new [] de matriz, mas excluído com delete escalar.: Lines: 133, 138
+C:\Users\uplyc\source\repos\SO\SO\PO.cpp(173): warning C6283: "n" é alocado com new [] de matriz, mas excluído com delete escalar.: Lines: 168, 173
+  SO.vcxproj -> C:\Users\uplyc\source\repos\SO\x64\Debug\SO.exe
